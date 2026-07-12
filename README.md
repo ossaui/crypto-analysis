@@ -6,6 +6,8 @@
 
 ## Live Demo
 
+![Dashboard Demo](demo.gif)
+
 ```
 python src/build_pipeline.py          # train & generate artifacts
 python -m streamlit run dashboard/app.py   # launch dashboard → localhost:8501
