@@ -1,0 +1,6 @@
+metric,value
+Holdout Accuracy,0.5693
+Macro F1-Score,0.4123
+CV Accuracy (mean),0.6258
+CV Accuracy (std),0.0121
+Silhouette Score,0.3908
